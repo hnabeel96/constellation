@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Constellation</string>
+    <string name="process_text_label">Save to Constellation</string>
+    <string name="sc_capture">New thought</string>
+    <string name="sc_voice">Speak a thought</string>
+    <string name="widget_desc">Capture a thought in one tap</string>
+    <string name="widget_text">✦  Capture a thought</string>
+</resources>
